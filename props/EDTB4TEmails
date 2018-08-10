@@ -1,0 +1,17 @@
+#// comments
+#Fri Apr 20 15:04:01 EDT 2018
+src=base
+b4t.project.url=https\://secure.bill4time.com/B4T2/Matters/view.aspx?tid\=
+email.smtp.from=DL-Bill4Time-Admin@EagleDream.com
+mail.smtp.host=outlook.office365.com
+email.smtp.password=
+b4t.last.email=2018-04-21
+email.smtp.to=
+email.smtp.cc=
+email.smtp.bcc=
+mail.smtp.starttls.enable=true
+mail.smtp.port=587
+mail.smtp.auth=true
+email.smtp.user=
+email.smtp.subject=EDT Bill4Time Project Report
+image.header="http\://www.hyperionherbs.com/wp-content/uploads/2014/11/Red-Autumn.jpg.jpg"
